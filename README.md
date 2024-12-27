@@ -2,7 +2,7 @@
 
 This repository contains all my notes and exercises for Machine Learning. It explores the concepts, tools, and techniques to build intelligent systems.
 
-I will be using Aurelien Geron's book on Machine Learning with Scikit-learn, Keras & TensorFlow published under Oreilly. 
+Reference book: Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media.
 
 ## Table of Contents
 
